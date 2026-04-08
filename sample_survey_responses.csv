@@ -1,0 +1,51 @@
+response_id,timestamp,nps_score,csat_score,open_text,channel,product_surface,respondent_type
+R001,2024-01-15 09:23:00,9,5,"The booking experience was seamless and I loved the new interface. Very intuitive!",web,booking,frequent_flyer
+R002,2024-01-15 10:45:00,3,2,"Check-in kiosk was broken and staff were unhelpful. Terrible experience overall.",airport,check_in,occasional
+R003,2024-01-15 11:02:00,7,4,"Pretty good overall but the app crashed twice during my session.",mobile,booking,occasional
+R004,2024-01-15 12:30:00,10,5,"Absolutely fantastic service. The staff went above and beyond to help me.",airport,check_in,frequent_flyer
+R005,2024-01-15 13:15:00,2,1,"Lost my luggage and nobody could tell me where it was. Worst experience ever.",airport,baggage,occasional
+R006,2024-01-15 14:00:00,8,4,"Good experience overall. The website was a bit slow but got the job done.",web,booking,new
+R007,2024-01-15 15:30:00,6,3,"Average experience. Nothing special but nothing terrible either.",mobile,check_in,occasional
+R008,2024-01-15 16:45:00,10,5,"Love the loyalty program updates! Redeeming miles has never been easier.",web,loyalty,frequent_flyer
+R009,2024-01-15 17:00:00,1,1,"Flight was delayed 4 hours with zero communication. Completely unacceptable.",airport,flight,occasional
+R010,2024-01-15 18:20:00,9,5,"Smooth boarding process and friendly crew. Will definitely fly again.",airport,flight,frequent_flyer
+R011,2024-01-16 08:10:00,4,2,"The mobile app is outdated and crashes frequently. Needs major improvement.",mobile,booking,new
+R012,2024-01-16 09:00:00,8,4,"Easy check-in process online. Saved me a lot of time at the airport.",web,check_in,frequent_flyer
+R013,2024-01-16 10:30:00,5,3,"Okay experience. The seat was uncomfortable on a long haul flight.",airport,flight,occasional
+R014,2024-01-16 11:45:00,10,5,"Perfect journey from start to finish. Highly recommend!",airport,flight,frequent_flyer
+R015,2024-01-16 12:00:00,2,1,"Rude staff at the gate and my upgrade request was completely ignored.",airport,check_in,occasional
+R016,2024-01-16 13:30:00,7,4,"Generally satisfied. The new seat selection tool on the website is great.",web,booking,new
+R017,2024-01-16 14:15:00,9,5,"The entertainment system was excellent and the food was surprisingly good.",airport,flight,frequent_flyer
+R018,2024-01-16 15:00:00,3,2,"Confusing website layout made it hard to find my booking. Very frustrating.",web,booking,occasional
+R019,2024-01-16 16:30:00,8,4,"Quick and easy baggage claim process. Impressed with the efficiency.",airport,baggage,frequent_flyer
+R020,2024-01-16 17:45:00,6,3,"Average flight. On time but nothing outstanding about the experience.",airport,flight,new
+R021,2024-01-17 08:30:00,10,5,"Customer support resolved my issue instantly. Great service!",web,support,frequent_flyer
+R022,2024-01-17 09:15:00,1,1,"Booking system crashed and I was double charged. Still waiting for refund.",web,booking,occasional
+R023,2024-01-17 10:00:00,7,4,"Comfortable flight and timely departure. Happy with the overall experience.",airport,flight,frequent_flyer
+R024,2024-01-17 11:30:00,9,5,"The new app update is amazing. So much faster and easier to use now.",mobile,booking,new
+R025,2024-01-17 12:45:00,4,2,"Long wait times at check-in. The process needs to be streamlined.",airport,check_in,occasional
+R026,2024-01-17 13:30:00,8,4,"Pleasant experience. Staff were friendly and helpful throughout.",airport,flight,frequent_flyer
+R027,2024-01-17 14:15:00,5,3,"The loyalty program rewards are not very competitive compared to others.",web,loyalty,occasional
+R028,2024-01-17 15:00:00,10,5,"Outstanding experience from booking to landing. Exceeded all expectations!",airport,flight,frequent_flyer
+R029,2024-01-17 16:30:00,2,1,"Seat was broken and reclined into my lap the entire flight. Horrible.",airport,flight,occasional
+R030,2024-01-17 17:45:00,9,4,"Very satisfied with the overall journey. Minor delay but well communicated.",airport,flight,frequent_flyer
+R031,2024-01-18 08:00:00,7,4,"Good service. The boarding was organized and efficient.",airport,check_in,new
+R032,2024-01-18 09:30:00,3,2,"App keeps logging me out and losing my saved preferences. Very annoying.",mobile,booking,occasional
+R033,2024-01-18 10:15:00,10,5,"Exceptional customer service. They truly care about passenger experience.",airport,support,frequent_flyer
+R034,2024-01-18 11:00:00,6,3,"Decent flight. Food could be better but overall an okay experience.",airport,flight,new
+R035,2024-01-18 12:30:00,8,5,"The lounge access was a great perk. Very comfortable and well stocked.",airport,loyalty,frequent_flyer
+R036,2024-01-18 13:15:00,1,1,"Absolutely terrible. Flight cancelled with no rebooking assistance offered.",airport,flight,occasional
+R037,2024-01-18 14:00:00,9,5,"Loved the new digital boarding pass feature. Very convenient.",mobile,check_in,frequent_flyer
+R038,2024-01-18 15:30:00,4,2,"Website is slow and outdated. Hard to navigate and find basic information.",web,booking,new
+R039,2024-01-18 16:45:00,8,4,"Good value for money. Comfortable seats and friendly crew.",airport,flight,occasional
+R040,2024-01-18 17:30:00,7,3,"Satisfactory experience overall. Could improve the in-flight entertainment.",airport,flight,frequent_flyer
+R041,2024-01-19 08:15:00,10,5,"Best airline experience I have had in years. Will be a loyal customer!",airport,flight,new
+R042,2024-01-19 09:00:00,2,1,"Terrible communication about gate changes. Missed my connection as a result.",airport,flight,occasional
+R043,2024-01-19 10:30:00,8,4,"Smooth and efficient process throughout. Very happy with the service.",airport,check_in,frequent_flyer
+R044,2024-01-19 11:15:00,6,3,"Average experience. The check-in queue was very long but staff were polite.",airport,check_in,new
+R045,2024-01-19 12:00:00,9,5,"The upgrade experience was seamless and the business class was excellent.",airport,flight,frequent_flyer
+R046,2024-01-19 13:30:00,3,2,"In-flight wifi was extremely slow and kept disconnecting throughout the flight.",airport,flight,occasional
+R047,2024-01-19 14:15:00,10,5,"Amazing loyalty rewards. Got a free flight upgrade as a surprise. Love it!",web,loyalty,frequent_flyer
+R048,2024-01-19 15:00:00,7,4,"Good experience. The staff were helpful and the flight was on time.",airport,flight,new
+R049,2024-01-19 16:30:00,5,3,"Okay overall. The baggage fees are a bit high compared to competitors.",web,booking,occasional
+R050,2024-01-19 17:45:00,9,5,"Everything was perfect. Booking, boarding, flight, and baggage. 10 out of 10.",airport,flight,frequent_flyer
